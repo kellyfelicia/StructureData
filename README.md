@@ -29,4 +29,6 @@ Test cases:
 2. ()[]{}
 3. (]
 4. ([])
+
+   
 ![Output](https://github.com/kellyfelicia/StructureData/blob/main/Screenshot%202025-03-25%20110431.png)
