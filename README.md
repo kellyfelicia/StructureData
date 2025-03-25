@@ -22,3 +22,11 @@ Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
 			a. Open brackets must be closed by the same type of brackets.
 			b. Open brackets must be closed in the correct order.
 			c. Every close bracket has a corresponding open bracket of the same type.
+
+## Output
+Test cases:
+1. ()
+2. ()[]{}
+3. (]
+4. ([])
+![Output](https://github.com/kellyfelicia/StructureData/blob/main/Screenshot%202025-03-25%20110431.png)
